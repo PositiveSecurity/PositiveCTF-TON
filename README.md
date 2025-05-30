@@ -29,7 +29,7 @@ yarn
 
 - Exploit:
 
-  - Write the exploit() hack using
+  - Write the hack using `exploit()` 
   - `levelDeployer.player` as the sender
 
 - Solution verification:
