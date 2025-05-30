@@ -22,19 +22,19 @@ yarn
 
 - Deploy:
 
-  - The `LevelDeployer` class is used for standard level deployment.
+  - The `LevelDeployer` class is used for standard level deployment
   - There are 2 roles assigned
-    - `player`.
-    - `deployer`.
+    - `player`
+    - `deployer`
 
 - Exploit:
 
-  - Write the exploit() hack using:
-  - `levelDeployer.player` as the sender.
+  - Write the exploit() hack using
+  - `levelDeployer.player` as the sender
 
 - Solution verification:
 
-  - At the end of the test, `levelDeployer.isLevelCompleted` is already called to validate the solution.
+  - At the end of the test, `levelDeployer.isLevelCompleted` is already called to validate the solution
 
 ## Disclaimer
 
