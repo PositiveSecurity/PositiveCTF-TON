@@ -1,0 +1,88 @@
+{
+    "$schema": "https://raw.githubusercontent.com/tact-lang/tact/main/src/config/configSchema.json",
+    "projects": [
+        {
+            "name": "HelloWorld",
+            "path": "contracts\\01_HelloWorld\\HelloWorld.tact",
+            "output": "build\\HelloWorld",
+            "options": {
+                "debug": false,
+                "external": false
+            },
+            "mode": "full"
+        },
+        {
+            "name": "Bounced",
+            "path": "contracts\\02_Bounced\\Stacking.tact",
+            "output": "build\\Bounced",
+            "options": {
+                "debug": false,
+                "external": false
+            },
+            "mode": "full"
+        },
+
+        {
+            "name": "ChainDog",
+            "path": "contracts\\03_ChainDog\\ChainDog.tact",
+            "output": "build\\ChainDog",
+            "options": {
+                "debug": false,
+                "external": false
+            },
+            "mode": "full"
+        },
+        {
+            "name": "NonFungibleToken",
+            "path": "contracts\\04_NonFungibleToken\\Manager.tact",
+            "output": "build\\NonFungibleToken",
+            "options": {
+                "debug": false,
+                "external": false
+            },
+            "mode": "full"
+        },
+
+        {
+            "name": "RewardPool",
+            "path": "contracts\\05_RewardPool\\RewardPool.tact",
+            "output": "build\\RewardPool",
+            "options": {
+                "debug": false,
+                "external": false
+            },
+            "mode": "full"
+        },
+        {
+            "name": "TheDAO",
+            "path": "contracts\\06_TheDAO\\TheDAO.tact",
+            "output": "build\\TheDAO",
+            "options": {
+                "debug": false,
+                "external": false
+            },
+            "mode": "full"
+        },
+
+        {
+            "name": "Fuzzing",
+            "path": "contracts\\07_Fuzzing\\Fuzzing.tact",
+            "output": "build\\Fuzzing",
+            "options": {
+                "debug": false,
+                "external": false
+            },
+            "mode": "full"
+        },
+        {
+            "name": "Controller",
+            "path": "contracts\\08_Controller\\Controller.tact",
+            "output": "build\\Controller",
+            "options": {
+                "debug": false,
+                "external": false
+            },
+            "mode": "full"
+        }
+    ]
+}
