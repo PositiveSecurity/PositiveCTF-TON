@@ -13,7 +13,7 @@ Clone the repository and solve locally, a separate test is made for each problem
 ```sh
 git clone https://github.com/PositiveSecurity/PositiveCTF-TON.git
 
-cd PositiveCTF-TON/TactCTF
+cd PositiveCTF-TON
 
 yarn
 ```
