@@ -1,5 +1,5 @@
 {
-    "name": "TactCTF",
+    "name": "ctf-ton-contracts",
     "version": "0.0.1",
     "scripts": {
         "bp": "blueprint",
